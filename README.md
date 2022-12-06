@@ -1,7 +1,6 @@
 # app-dev
 My first repository
-# H1
-**bold text**
+**My Favorite Series**
 1. Friends
 2. Breaking Bad
 3. How I Met Your Mother
